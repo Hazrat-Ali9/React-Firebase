@@ -9,4 +9,5 @@ export default {
   },
   plugins: [require("daisyui")],
 }
+// tailwind config
 
