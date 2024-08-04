@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { AuthContext } from "../../providers/AuthProvider";
-
+// Register
 const Register = () => {
 
     const { createUser, signInGoogle } = useContext(AuthContext)
