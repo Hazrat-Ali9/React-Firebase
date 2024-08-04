@@ -9,5 +9,5 @@ const MainLayout = () => {
         </div>
     );
 };
-
+// main layout
 export default MainLayout;
