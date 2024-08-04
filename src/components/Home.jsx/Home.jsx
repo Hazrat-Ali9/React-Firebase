@@ -6,4 +6,5 @@ const Home = () => {
     );
 };
 
+// Home js
 export default Home;
